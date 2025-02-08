@@ -3,3 +3,4 @@ pandas
 openpyxl
 plotly
 st-aggrid
+pip>=25.0
